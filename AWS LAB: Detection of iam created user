@@ -24,7 +24,7 @@ IAM → CloudTrail → EventBridge → SNS → Email Alert
 }
 
 --Proof of Execution--
-the images are in the right side of this file
+the images are in the left side of this file
 
 --Security Concept Demonstrated--
 
