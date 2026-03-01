@@ -24,7 +24,29 @@ IAM → CloudTrail → EventBridge → SNS → Email Alert
 }
 
 --Proof of Execution--
-the images are in the left side of this file
+## 📸 CloudTrail Enabled
+
+![CloudTrail](images/cloudtrail.png)
+
+## 📸 Email
+
+![EMAIL](images/email-aws.png)
+
+## 📸 EventBridge
+
+![EventBridge](images/eventBridge.png)
+
+## 📸 Monitoring event
+![Monitoring](images/monitoring.png)
+
+## 📸 SNS
+
+![SNS](images/sns.png)
+
+## 📸 Subscription
+
+![Subscription](images/subscription.png)
+
 
 --Security Concept Demonstrated--
 
